@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **React, Redux, Context API, Vanilla JS, HTML and CSS**
 
-- 📫 How to reach me **nilo22@gmail.com**
-
 - 📄 Know about my experiences [I'm transitioning my career from architecture to web development](I'm transitioning my career from architecture to web development)
+
+- 📫 How to reach me **nilo22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
